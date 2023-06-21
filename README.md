@@ -20,7 +20,13 @@ The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs]
 ## Install
 
 ```
-cd haraldhouse-epilogues
+git clone https://github.com/HaraldHouse/epilogues.git
+```
+
+then
+
+```
+cd vue3-boilerplate
 npm install
 ```
 
