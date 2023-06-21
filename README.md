@@ -26,7 +26,7 @@ git clone https://github.com/HaraldHouse/epilogues.git
 then
 
 ```
-cd vue3-boilerplate
+cd epilogues
 npm install
 ```
 
